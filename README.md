@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-Commerce BackEnd
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
