@@ -37,7 +37,7 @@ This project is the back-end for an e-commerce site, built using Express.js, Seq
 
   ![Screenshot of Insomnia](/images/Insomnia.png)
 
-  To view a walkthrough of the video, click the following link: [ ]
+  To view a walkthrough of the video, click the following link: [https://drive.google.com/file/d/10MlRI8zarZNvjLgrEWW5ZnkPB166tgED/view?usp=sharing]
 
   ## License
     
